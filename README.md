@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Boris 👋</h1>
+<h3 align="center">Frontend developer at VK</h3>
 
-<!--
-**vairaden/vairaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  📫 How to reach me:
+  <br/>
+  <br/>
+  
+  <a href="https://www.linkedin.com/in/boris-avgustinovich">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://t.me/kekck">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <br/>
+  <p align="center">
+    Email: <a href="mailto:b_avgustinovich@mail.ru">b_avgustinovich@mail.ru</a>
+  </p>
+</p>    
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 **Computer science**\
+📆 2022 - 2025\
+📍 **NUST MISIS** - Moscow, Russia
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+
+
+- 👨‍💻 **Frontend developer**\
+📆 2023 - present\
+📍 **VK** - Moscow, Russia
