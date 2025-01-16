@@ -28,10 +28,6 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-
-
 - 👨‍💻 **Frontend developer**\
 📆 2023 - present\
 📍 **VK** - Moscow, Russia
