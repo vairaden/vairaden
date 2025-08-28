@@ -16,7 +16,7 @@
   </a>
   <br/>
   <p align="center">
-    Email: <a href="mailto:b_avgustinovich@mail.ru">b_avgustinovich@mail.ru</a>
+    Email: <a href="mailto:b_avgustinovich@mail.ru">boris.avgustinovich@gmail.com</a>
   </p>
 </p>    
 
